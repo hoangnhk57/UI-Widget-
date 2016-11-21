@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/WidgetEvent1.iml" filepath="$PROJECT_DIR$/WidgetEvent1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/separate_class/inner_class.iml" filepath="$PROJECT_DIR$/separate_class/inner_class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/separate_class/separate_class.iml" filepath="$PROJECT_DIR$/separate_class/separate_class.iml" />
+    </modules>
+  </component>
+</project>
